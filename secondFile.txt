@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Line 1 Changed git_1
 Line 2 Changed git_1
+================
+Line 1 change git_2
+Line 2 change git_2
+>>>>>>> git_2
 Line 3
 Line 4
 Line 5
